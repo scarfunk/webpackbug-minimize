@@ -1,0 +1,21 @@
+{
+  "name": "wptest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^4.39.3",
+    "webpack-merge": "^4.2.2"
+  },
+  "devDependencies": {
+    "@webpack-cli/info": "^0.1.6",
+    "@webpack-cli/migrate": "^0.1.8",
+    "webpack-cli": "^3.3.8"
+  }
+}
